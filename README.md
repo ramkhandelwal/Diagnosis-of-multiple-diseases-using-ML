@@ -17,9 +17,9 @@ https://colab.research.google.com/drive/1fQi_M3_B-XFwS4PBtteEQgz8yr6G3-6W
 
 # Some Images of Web App
 ![image](https://user-images.githubusercontent.com/56959982/180250802-69113b35-3295-498c-b589-c100d785f756.png)
-#
-# ----------------------------------------------------------------------------------------------------------
-#
+
+# ------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/56959982/180251411-8ede767d-c694-4252-91be-0318a9ebec03.png)
 
 
