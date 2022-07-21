@@ -14,3 +14,7 @@ https://colab.research.google.com/drive/1AshzoU1XVZdWEw8yxqbC4ztvmrABKoyg
 https://colab.research.google.com/drive/1qkXaOop5Zh53L6FKEuA5MSpR5vQl3PqE
 https://colab.research.google.com/drive/18Oj0hVq7tOTxlLJrqKYyMP6UFXAg1pXY
 https://colab.research.google.com/drive/1fQi_M3_B-XFwS4PBtteEQgz8yr6G3-6W
+
+#Some ScreenShots of Web App
+![image](https://user-images.githubusercontent.com/56959982/180250802-69113b35-3295-498c-b589-c100d785f756.png)
+
